@@ -1,1 +1,1 @@
-BOT_TOKEN = "1193252799:AAG2OKakMhMbsGK6s-1pVB3QH7ieoTBmN1Q"  # Your token
+BOT_TOKEN = "sQ"  # Your token
